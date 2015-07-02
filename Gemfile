@@ -1,0 +1,3 @@
+source httprubygems.org
+
+gemspec
